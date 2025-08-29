@@ -1,4 +1,4 @@
-import background from "../assets/Background.png"
+import background from "../assets/BackgroundPage.jpg"
 
 export default function Home() {
     return (
